@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          LEAVE ME ALONE! DING! AHHHHHHHHHHHH! AKIRA AKIRA AKIRA!.
+          THIS IS MUEEZ SPACE!!! 
         </p>
         <YouTube videoId={videoId} />
         <a
@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          wkadaklsdmaklsmda
+          okay mueez okay
         </a>
       </header>
     </div>
